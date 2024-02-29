@@ -5,4 +5,4 @@
 * Additionally, system could construct courses learning path for user.
 
 
-[certificate](../../certificate.png)
+![certificate](https://github.com/Sapientia-Creatrix/.github/blob/main/certificate.png)
