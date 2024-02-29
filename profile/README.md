@@ -5,9 +5,9 @@
 * Additionally, system could construct courses learning path for user.
 
 ## Architecture
-* ![FrontEnd](https://github.com/Sapientia-Creatrix/FrontEnd)
-* ![BackEnd](https://github.com/Sapientia-Creatrix/BackEnd)
-* ![Recommend System](https://github.com/Sapientia-Creatrix/RecommendSystem)
+* [FrontEnd](https://github.com/Sapientia-Creatrix/FrontEnd)
+* [BackEnd](https://github.com/Sapientia-Creatrix/BackEnd)
+* [Recommend System](https://github.com/Sapientia-Creatrix/RecommendSystem)
 
 This project participated in 2024 TSMC Career Hack and advanced to the finals.
 ![certificate](https://github.com/Sapientia-Creatrix/.github/blob/main/certificate.png)
