@@ -10,4 +10,4 @@
 * [Recommend System](https://github.com/Sapientia-Creatrix/RecommendSystem)
 
 This project participated in 2024 TSMC Career Hack and advanced to the finals.
-![certificate](https://github.com/Sapientia-Creatrix/.github/blob/main/certificate.png=200*500)
+![certificate](https://github.com/Sapientia-Creatrix/.github/blob/main/certificate.png)
