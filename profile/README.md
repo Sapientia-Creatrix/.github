@@ -9,5 +9,5 @@
 * [BackEnd](https://github.com/Sapientia-Creatrix/BackEnd)
 * [Recommend System](https://github.com/Sapientia-Creatrix/RecommendSystem)
 
-This project participated in 2024 TSMC Career Hack and advanced to the finals.
+This project participated in [2024 TSMC Career Hack](https://www.tsmc.com/static/english/careers/2024Careerhack/index.html) and advanced to the finals.
 ![certificate](https://github.com/Sapientia-Creatrix/.github/blob/main/certificate.png)
